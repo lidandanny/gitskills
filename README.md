@@ -1,4 +1,4 @@
 gitskills
 =========
 create a new branch is quick & simple.
-you are the two
+you are the one.
